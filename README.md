@@ -1,1 +1,3 @@
 # Bem-vindo! Estou praticando Git e GitHub...
+
+Estou aprendendo a como utilizar estas ferramentas para desenvolver um futuro portfólio na plataforma.
